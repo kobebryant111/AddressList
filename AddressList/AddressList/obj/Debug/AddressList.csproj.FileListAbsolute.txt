@@ -1,0 +1,13 @@
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\bin\Debug\AddressList.exe.config
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\bin\Debug\AddressList.exe
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\bin\Debug\AddressList.pdb
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Form1.resources
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.exe
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.pdb
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Form2.resources
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Form3.resources
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Form4.resources
+d:\documents\visual studio 2015\Projects\AddressList\AddressList\obj\Debug\AddressList.Form5.resources
